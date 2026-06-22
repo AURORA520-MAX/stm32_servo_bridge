@@ -1,0 +1,27 @@
+# Keil 编译产物
+*.o
+*.d
+*.crf
+*.lst
+*.lnp
+*.htm
+*.dep
+*.axf
+*.hex
+*.iex
+*.sct
+*.map
+*.build_log.htm
+Obj/
+Listings/
+RTE/
+DebugConfig/
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
+.vscode/
+
+# 其他
+JLinkLog.txt
